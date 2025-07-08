@@ -1,4 +1,4 @@
-🔐 Client-Server Authentication with Boost.Asio (Phase 1)
+🔐 Client-Server Authentication with Boost.Asio 
 
 As part of my ongoing exploration into systems and network programming, I built a minimal C++ client-server authentication system using the Boost.Asio library.
 🚀 Objectives:
